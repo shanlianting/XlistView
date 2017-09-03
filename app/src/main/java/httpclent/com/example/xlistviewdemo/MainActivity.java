@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import me.maxwin.view.XListView;
 
 /**
- * modify here shan
+ * modify here shan ,
  */
 public class MainActivity extends AppCompatActivity implements XListView.IXListViewListener {
  private String s;
